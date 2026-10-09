@@ -52,20 +52,9 @@ Ferramentas & Workflow: Git, GitHub, Linux, Jupyter Notebooks
 
 ---
 
-## 🤝 Como Contribuir
-
-1. Faça um **Fork** do repositório desejado na organização [`LeiahOrganization`](https://github.com/LeiahOrganization).
-2. Crie uma branch para sua funcionalidade: `git checkout -b feature/sua-feature`.
-3. Faça o commit das suas alterações: `git commit -m 'feat: adiciona nova funcionalidade'`.
-4. Envie para a branch remota: `git push origin feature/sua-feature`.
-5. Abra um **Pull Request** detalhando sua contribuição.
-
----
-
 ## 📬 Contato & Localização
 
 * 📍 **Endereço:** IFCE Campus Maranguape — CE-065, km 19, Novo Parque Iracema, Maranguape - CE
-* 📧 **E-mail:** `amelia.oliveira@ifce.edu.br`
 * 🌐 **Portal:** [IFCE Campus Maranguape](https://portal.ifce.edu.br/campus/maranguape/)
 
 ---
